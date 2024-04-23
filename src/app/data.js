@@ -1,91 +1,73 @@
-/*
-Websites:
-
-- https://github.com/pmndrs/gltfjsx (GLTF JSX for 3D Models)
-- https://lucide.dev/icons/ (Lucide Icons)
-- https://github.com/anuraghazra/github-readme-stats (Github Readme Stats)
-- https://skillicons.dev (Skill Icons to show skills)
-- https://github-readme-streak-stats.herokuapp.com (Github Readme Streak Stats)
-
-:root {
-  --background: 27 27 27;
-  --foreground: 225 225 225;
-  --muted: 115 115 115;
-  --accent: 254 254 91; #FEFE5B
-}
-
-*/
-
 export const projectsData = [
   {
     id: 1,
-    name: "EcoTracker",
-    description: "Track your carbon footprint",
-    date: "2022-08-15",
-    demoLink: "https://ecotracker.example.com",
+    name: "Lorem ipsum",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    date: "2023-07-20",
+    demoLink: "https://example.com",
   },
   {
     id: 2,
-    name: "ArtGallery Online",
-    description: "Digital art showcase platform",
-    date: "2022-06-20",
-    demoLink: "https://artgalleryonline.example.com",
+    name: "Lorem ipsum",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    date: "2023-07-21",
+    demoLink: "https://example.com",
   },
   {
     id: 3,
-    name: "BudgetPlanner",
-    description: "Plan and track expenses",
-    date: "2022-09-10",
-    demoLink: "https://budgetplanner.example.com",
+    name: "Lorem ipsum",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    date: "2023-07-22",
+    demoLink: "https://example.com",
   },
   {
     id: 4,
-    name: "HealthBeat",
-    description: "Monitor heart rate zones",
-    date: "2022-05-30",
-    demoLink: "https://healthbeat.example.com",
+    name: "Lorem ipsum",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    date: "2023-07-23",
+    demoLink: "https://example.com",
   },
   {
     id: 5,
-    name: "RecipeFinder",
-    description: "Discover new recipes",
-    date: "2022-07-12",
-    demoLink: "https://recipefinder.example.com",
+    name: "Lorem ipsum",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    date: "2023-07-24",
+    demoLink: "https://example.com",
   },
   {
     id: 6,
-    name: "JourneyLogger",
-    description: "Log your travels",
-    date: "2022-10-01",
-    demoLink: "https://journeylogger.example.com",
+    name: "Lorem ipsum",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    date: "2023-07-25",
+    demoLink: "https://example.com",
   },
   {
     id: 7,
-    name: "StudyBuddy",
-    description: "Collaborative learning platform",
-    date: "2022-04-18",
-    demoLink: "https://studybuddy.example.com",
+    name: "Lorem ipsum",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    date: "2023-07-25",
+    demoLink: "https://example.com",
   },
   {
     id: 8,
-    name: "TechTalk",
-    description: "Tech news aggregator",
-    date: "2022-11-05",
-    demoLink: "https://techtalk.example.com",
+    name: "Lorem ipsum",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    date: "2023-07-26",
+    demoLink: "https://example.com",
   },
   {
     id: 9,
-    name: "FitTrack",
-    description: "Fitness and workout tracker",
-    date: "2022-03-22",
-    demoLink: "https://fittrack.example.com",
+    name: "Lorem ipsum",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    date: "2023-07-27",
+    demoLink: "https://example.com",
   },
   {
     id: 10,
-    name: "MindfulMoments",
-    description: "Meditation and mindfulness app",
-    date: "2022-02-14",
-    demoLink: "https://mindfulmoments.example.com",
+    name: "Lorem ipsum",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    date: "2023-07-28",
+    demoLink: "https://example.com",
   },
 ];
 
@@ -96,19 +78,19 @@ export const BtnList = [
   { label: "Contact", link: "/contact", icon: "contact", newTab: false },
   {
     label: "Github",
-    link: "https://www.github.com/codebucks27",
+    link: "https://www.github.com",
     icon: "github",
     newTab: true,
   },
   {
     label: "LinkedIn",
-    link: "https://www.linkedin.com/in/codebucks",
+    link: "https://www.linkedin.com",
     icon: "linkedin",
     newTab: true,
   },
   {
     label: "X",
-    link: "https://www.x.com/code_bucks",
+    link: "https://twitter.com/",
     icon: "twitter",
     newTab: true,
   },
